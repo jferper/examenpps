@@ -1,3 +1,3 @@
 <?php
-    //segundo comentario
+    //página con comentarios
 ?>
