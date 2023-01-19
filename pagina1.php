@@ -1,5 +1,5 @@
 <?php
-//Comentario primero primer archivo
+
 ?>
 
 <!DOCTYPE html>
